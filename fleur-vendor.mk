@@ -1275,6 +1275,3 @@ PRODUCT_PACKAGES += \
     wlan_assistant \
     wmt_launcher \
     wmt_loader
-
-PRODUCT_BOOT_JARS += \
-    camerax-vendor-extensions
