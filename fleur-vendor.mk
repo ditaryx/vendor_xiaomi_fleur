@@ -1252,7 +1252,6 @@ PRODUCT_PACKAGES += \
     android.hardware.neuralnetworks@1.3-service-mtk-gpu.xml \
     gnss-mtk.xml \
     gnss@2.1-service.xml \
-    manifest_media_c2_V1_2_default.xml \
     manifest_thh.xml \
     batterysecret \
     ccci_mdinit \
